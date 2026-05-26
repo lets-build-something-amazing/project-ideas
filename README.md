@@ -1,6 +1,6 @@
 # Welcome to the core of "Let's Build Something Amazing"! :wave: :earth_americas: → :seedling: → :rocket:
 
-The first few months will be dedicated to **Phase 1: The Gathering**. This forum (found under the Discussions tab on the top nav bar) is our dedicated space to brainstorm exactly what we are going to build together as a community. When we transition to **Phase 2: The Decision**, we will take the top ideas from this forum and put them to an official vote.
+The first few months will be dedicated to **Phase 1: The Gathering**. This forum (found under the [Discussions](https://github.com/lets-build-something-amazing/project-ideas/discussions) tab on the top nav bar) is our dedicated space to brainstorm exactly what we are going to build together as a community. When we transition to **Phase 2: The Decision**, we will take the top ideas from this forum and put them to an official vote.
 
 **A Challenge to the Community:**
 While anything and everything is on the table, I'd love to challenge us to think of this as a sort of civic exercise. What if we could find ways to leverage technology that will directly benefit our entire city, county, or region? Let's dream big about local impact!
