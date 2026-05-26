@@ -19,10 +19,15 @@ How to use this forum:
 **Need a template for your serious pitch? Copy and paste this into your reply:**
 
 > **The Problem:** (What real-world problem are we trying to solve?)
+> 
 > **The Solution:** (What is the app/tool we are building to fix it?)
+> 
 > **The Civic Impact:** (How could this benefit our local city, county, or region?)
+> 
 > **The Validation Plan:** (Who "in the trenches" could we talk to to ensure this is practically useful?)
+> 
 > **Why it's great for beginners:** (Does it allow for simple contributions?).  *IME pretty much every project has plenty of opportunity for learning and engagement from beginners, but if you have a particular point you think will be relevant here please feel free to share!*
+> 
 > **Potential Tech Stack:** (Got ideas for languages or frameworks? e.g., React, Python, Discord API)
 
 Don't worry if your idea isn't perfect yet.  If others in the community are inspired by your pitch they'll almost certainly jump in to help you with brainstorming.
